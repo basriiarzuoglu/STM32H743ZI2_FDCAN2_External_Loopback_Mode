@@ -1,0 +1,6 @@
+main.c:84:5:main	5
+main.c:212:6:SystemClock_Config	4
+main.c:268:13:MX_FDCAN2_Init	2
+main.c:321:13:MX_GPIO_Init	1
+main.c:332:6:HAL_SYSTICK_Callback	7
+main.c:360:6:Error_Handler	1
